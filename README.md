@@ -1,1 +1,1 @@
-# knn_from_scratch
+# kmeans_from_scratch
